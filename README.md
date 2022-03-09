@@ -7,7 +7,7 @@ I write web apps and websites with Javascript tools.
 * ✉️  You can contact me at [marucha.webdev@yahoo.com](mailto:marucha.webdev@yahoo.com)
 * 🧠  I'm learning Mocha & Chai js.
 * 🤝  I'm open to collaborating on Full Stack Applications,mobile and web.
-* ⚡  This is the way.
+* ⚡  This Is The Way.
 
 ### Skills
 
