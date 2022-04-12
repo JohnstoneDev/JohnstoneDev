@@ -3,7 +3,7 @@ Web Developer
 
 I write web apps and websites with Javascript tools.
 
-* 🌍  I'm based in Nairobi
+* 🌍  I'm based in Kenya
 * ✉️  You can contact me at [marucha.webdev@yahoo.com](mailto:marucha.webdev@yahoo.com)
 * 🧠  I'm learning Mocha & Chai js.
 * 🤝  I'm open to collaborating on Full Stack Applications.
