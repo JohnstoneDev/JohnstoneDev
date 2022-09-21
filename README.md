@@ -5,8 +5,8 @@ I write web apps and websites with Javascript tools.
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [marucha.webdev@yahoo.com](mailto:marucha.webdev@yahoo.com)
-* 🧠  I'm learning Mocha,Chai js & Ruby.
-* 🤝  I'm open to collaborating on Full Stack Applications.
+* 🧠  I'm learning Mocha,Chai js & Ruby. Lookign forward to begin some Rust!
+* 🤝  I'm open to collaborating on Full Stack Web Applications.
 
 
 ### Skills
