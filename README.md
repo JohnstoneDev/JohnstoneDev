@@ -24,6 +24,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnstonedev&show_icons=true&locale=en&layout=compact" alt="johnstonedev" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnstonedev&show_icons=true&locale=en" alt="johnstonedev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnstonedev&" alt="johnstonedev" /></p>
+
+<br>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eelu7wkjvmw5liznunqlekvlcm)
+
+
