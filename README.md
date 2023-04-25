@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/62dc691a-c1c5-45fc-968b-ac3d6d79be63.svg)](https://wakatime.com/@62dc691a-c1c5-45fc-968b-ac3d6d79be63)
 
-- 🌱 I’m currently learning **C & Python**
+- 🌱 I’m currently learning **C# **
 
 - 👯 I’m looking to collaborate on **OSS & Web Applications**
 
